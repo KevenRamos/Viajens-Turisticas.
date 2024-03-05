@@ -6,6 +6,7 @@
 <p align="justify">Projeto voltado para fixar os conhecimetos de HTML e CSS, voltado principalmente para o CSS, onde diz respeito a utilização das ferramentas width e height</p>
 <br>
 <h2 align="center">Linguagens utilizadas</h2>
+<br>
 <p align="center"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="logo-html" height="70px" /><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="logo-css" height="70px" /></p>
 <br>
 <img src="https://github.com/KevenRamos/Viajens-Turisticas./blob/master/Captura%20de%20Tela%20(5).png?raw=true" alt="img-projeto" />
